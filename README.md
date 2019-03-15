@@ -13,7 +13,7 @@ Welcome to Deep Learning on JuiceFS Tutorials. These notebooks are tutorials cov
 
 ## Contents
 
-- [01. Getting Started](01. Getting Started.ipynb)
+- [01. Getting Started](01.Getting-Started.ipynb)
 
 ## Run notebooks
 
